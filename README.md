@@ -1,10 +1,6 @@
 # NAFT - NFT Marketplace
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/naft-nft_marketplace)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/naft-nft_marketplace?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/naft-nft_marketplace?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/f_jQvRUaffo?style=social)](https://youtu.be/f_jQvRUaffo)
+![GitHub repo size](https://img.shields.io/github/repo-size/mdazharul869/naft-nft_marketplace)
 
 NAFT is a fully responsive nft marketplace website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
@@ -17,7 +13,6 @@ NAFT is a fully responsive nft marketplace website, responsive for all devices, 
 
 Before you begin, ensure you have met the following requirements:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
 ## Installing NAFT
 
@@ -25,15 +20,10 @@ To install **NAFT**, follow these steps:
 
 Linux and macOS:
 
-```bash
-sudo git clone https://github.com/codewithsadee/naft-nft_marketplace.git
-```
+
 
 Windows:
 
-```bash
-git clone https://github.com/codewithsadee/naft-nft_marketplace.git
-```
 
 ## Contact
 
